@@ -10,25 +10,13 @@ $G_1=(V_1 , E_1)$ is isomorphic to $G_2 = (V_2, E_2)$ if there exists a
 one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,v)
 \in E_1$ iff $(f(u),f(v)) \in E_2$.
 
-Let's start with the simplest graph: 2 graphs A and B, and let's assume that A and B are isomorphic.
+A one-to-one and onto function means that each node can be mapped onto a corresponding node that shares the same number of edges.
 
 
-A has two vertices, one and two. One and two are not connected by any edges.
+And this can only happen if two conditions are true: one, the two graphs have the same number of nodes, and two, they have the same number of edges extending from those nodes. 
 
 
-B has one vertex, 3. 3 is not connected by any edges.
-
-
-One can be mapped onto 3.
-
-
-Two can be mapped onto nothing because graph B does not have another vertex to map onto.
-
-
-Graphs A and B are not isomorphic because they have a different number of vertices.
-
-
-Therefore, 2 isomorphic graphs must have the same number of vertices so that each vertex can be mapped onto a corresponding vertex in the other graph.
+Therefore, two isomorphic graphs must have the same number of vertices so that each vertex can be mapped onto a corresponding vertex in the other graph.
 
 
 
