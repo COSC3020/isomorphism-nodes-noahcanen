@@ -27,6 +27,11 @@ Two can be mapped onto nothing because graph B does not have another vertex to m
 
 Graphs A and B are not isomorphic because they have a different number of vertices.
 
+
+Therefore, 2 isomorphic graphs must have the same number of vertices so that each vertex can be mapped onto a corresponding vertex in the other graph.
+
+
+
 For this assignment, I used the resource of https://en.wikipedia.org/wiki/Complete_graph, https://github.com/COSC3020/isomorphism-connectivity-noahcanen
 
 "I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice."
